@@ -4,5 +4,17 @@
 //-3 -> нет
 //7 -> нет
 
+Console.Clear();
 
-Console.WriteLine("Hello, World!");
+Console.Write("Введите число: ");            //просим ввести число
+int number1 = int.Parse(Console.ReadLine());
+
+
+if (number1 % 2 == 0)
+{
+        Console.WriteLine("Введенное число явялется четным");
+    }
+else
+{
+    Console.WriteLine("Введенное число явялется не четным");
+}
