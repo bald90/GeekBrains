@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\krugl\\OneDrive\\Рабочий стол\\GeekBrains\\3. Знакомство с языками С#\\Homework_1\\Homework_1\\zadacha_2\\zadacha_2.csproj",
+      "projectUniqueName": "C:\\Users\\krugl\\OneDrive\\Рабочий стол\\GeekBrains\\3. Знакомство с языками С#\\Homework\\Homework_1\\zadacha_2\\zadacha_2.csproj",
       "projectName": "zadacha_2",
-      "projectPath": "C:\\Users\\krugl\\OneDrive\\Рабочий стол\\GeekBrains\\3. Знакомство с языками С#\\Homework_1\\Homework_1\\zadacha_2\\zadacha_2.csproj",
+      "projectPath": "C:\\Users\\krugl\\OneDrive\\Рабочий стол\\GeekBrains\\3. Знакомство с языками С#\\Homework\\Homework_1\\zadacha_2\\zadacha_2.csproj",
       "packagesPath": "C:\\Users\\krugl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\krugl\\OneDrive\\Рабочий стол\\GeekBrains\\3. Знакомство с языками С#\\Homework_1\\Homework_1\\zadacha_2\\obj\\",
+      "outputPath": "C:\\Users\\krugl\\OneDrive\\Рабочий стол\\GeekBrains\\3. Знакомство с языками С#\\Homework\\Homework_1\\zadacha_2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\krugl\\AppData\\Roaming\\NuGet\\NuGet.Config"
